@@ -1,6 +1,4 @@
-spring:
-  application:
-   name: User-Service_007
+
 
 eureka:
   client:
